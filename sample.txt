@@ -1,0 +1,25 @@
+ <div id="header">
+    <img id="dp"
+      src="public\images\ranbir.jpg"
+      alt="Profile Picture">
+    <div id="desc">
+      <p>nitin.sh125 <span><button id="follow">Follow</button></span></p>
+      <h3>Nitin Sharma</h3>
+      <span id="bio">
+        <p>I am a cool, hot boy</p>
+      </span>
+    </div>
+  </div>
+  <br>
+  <hr style="color: #cccccc;">
+  <div id="timeline">
+    <div class="post">
+      <img src="public\images\ranbir.jpg">
+    </div>
+    <div class="post">
+      <img src="public\images\ranbir.jpg">
+    </div>
+    <div class="post">
+      <img src="public\images\ranbir.jpg">
+    </div>
+  </div>

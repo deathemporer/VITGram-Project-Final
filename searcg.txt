@@ -1,0 +1,16 @@
+<div id="result">
+			<ul id="searchresult" type="none">
+				<div id="rslt">
+					<li>
+						<div id="dp"><img class="profpic" src="public\images\ranbir.jpg"></div>
+						<div id="uname">nitinsharma</div>
+					</li>
+				</div>
+				<br>
+				<div id="rslt">
+					<li>
+						<div id="dp"><img class="profpic" src="public\images\ranbir.jpg"></div>
+						<div id="uname">abhimanyu</div>
+					</li>
+				</div>
+		</div>

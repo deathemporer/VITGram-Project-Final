@@ -1,0 +1,78 @@
+html {
+    background: #B3FFAB;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #12FFF7, #B3FFAB);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #12FFF7, #B3FFAB);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    font-family: 'Montserrat', sans-serif;
+  }
+  #header{
+    padding-top: 50px;
+    display: flex;
+    width: 800px;
+    border: 1px solid black;
+    overflow: hidden;
+    text-align: center;
+  }
+  #topbar{
+    background-color: #FAFAFA;  
+    border-bottom: 0.5px solid #ccc;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1;
+  }
+  #topbar a{
+      display: inline-block;
+      width: 20%;
+      margin-left: -4px;
+      text-align: center;
+      padding: 0px;
+      box-sizing: border-box;
+  }
+  
+  #topbar a:hover{
+    background-color: #ccc;
+  }
+  #topbar img{
+        width: 50px;
+        height: 50px;
+  }
+  
+  .form-horizontal{
+      margin-top: 200px;
+      width: 60%;
+      padding: 20px;
+      margin-left: auto;
+      margin-right: auto;
+      height:300px;
+      background-color: transparent;
+  }
+
+#container{
+    width: 60%;
+    margin: auto;
+    background-color: transparent;
+}
+#searchbar{
+	margin:0px auto;
+	left: 0;
+	padding: 10px;
+	width: 70%;
+}
+
+h1{
+    text-align: center;
+    font-family: montserrat;
+}
+
+input{
+	margin:0px  auto;
+	width: 50%;
+	font-family: montserrat;
+	border-style: none;
+	outline: none;
+}
+
